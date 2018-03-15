@@ -1,6 +1,7 @@
 rho = 1.2682;   % [kg/m3]   air density
 c   = 0.18994;  % [m]       mean chord of wing
 S   = 0.55;     % [m]       area of wing
+b   = 2.8956;   % [m]       Length of wing?
 
 m  = 13.5;      %[kg]
 Jy = 1.135;     %[kg*m2]
